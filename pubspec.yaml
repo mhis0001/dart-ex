@@ -1,0 +1,7 @@
+name: dart_students_exercise
+description: A console app for practicing Dart lists and maps.
+version: 1.0.0
+publish_to: 'none'
+
+environment:
+  sdk: ^3.0.0
